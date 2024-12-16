@@ -1,16 +1,4 @@
 ## Hi there 👋
-
-
-💻 Skills
-
-🚀 Projects
-Project Name: 🌟
-Project Name: 🌟
-📫 Contact
-LinkedIn:
-Email: Priyanshuranjan@live.com
-
-
 **iPriyanshuRanjan/iPriyanshuRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I’m a passionate Java Developer with a love for creating efficient and scalable applications. I enjoy contributing to open-source projects and continuously learning new technologies.
