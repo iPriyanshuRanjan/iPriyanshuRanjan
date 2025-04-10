@@ -1,12 +1,29 @@
-Hi there 👋
-I'm Priyanshu Ranjan, a passionate Java Developer focused on creating scalable applications. I love contributing to open-source projects and continuously learning new technologies.
+# 👋 Hi there, I'm Priyanshu Ranjan
 
-🔭 Currently working on Java, Spring Boot, RESTful APIs, Databases, and Version Control
+I'm a passionate **Java Developer** focused on creating scalable applications. I love contributing to **open-source projects** and continuously learning new technologies.
 
-🌱 Learning Azure for cloud computing
+## 🚀 Tech Stack
 
-👯 Looking to collaborate on Open-Source Projects
+- **Languages:** Java  
+- **Frameworks:** Spring Boot  
+- **Tools & Practices:** RESTful APIs, Databases, Version Control (Git)
 
-📫 Reach me at: Priyanshuranjan@live.com
+## 🌱 Currently Learning
 
-⚡ Fun fact: I enjoy exploring new frameworks and tools!
+- **Azure** for cloud computing
+
+## 🤝 Looking to Collaborate
+
+- Open-source projects and innovative development communities.
+
+## 📫 Contact Me
+
+- Email: [priyanshuranjan@live.com](mailto:priyanshuranjan@live.com)
+
+## 📈 GitHub Stats
+
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPriyanshuRanjan&show_icons=true&theme=radical)
+
+## ⚡ Fun Fact
+
+I enjoy exploring new frameworks and tools!
