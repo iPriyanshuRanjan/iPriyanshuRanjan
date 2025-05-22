@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Priyanshu Ranjan</h1>
-<h3 align="center">🚀 Java Developer | Open Source Contributor | Cloud Explorer</h3>
+<h3 align="center">🚀 Java Developer | Cloud Explorer</h3>
 
 ---
 
